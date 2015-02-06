@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+ 
+<participatingSchools>
+
+	<school>
+		<schoolId>1</schoolId>
+		<schoolName>Birmingham-Southern College</schoolName>
+		<schoolStateAbbreviation>AL</schoolStateAbbreviation>
+		<schoolState>Alabama</schoolState>
+		<schoolUrl>http://www.bsc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>2</schoolId>
+		<schoolName>Faulkner University</schoolName>
+		<schoolStateAbbreviation>AL</schoolStateAbbreviation>
+		<schoolState>Alabama</schoolState>
+		<schoolUrl>http://www.faulkner.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>3</schoolId>
+		<schoolName>Samford University</schoolName>
+		<schoolStateAbbreviation>AL</schoolStateAbbreviation>
+		<schoolState>Alabama</schoolState>
+		<schoolUrl>http://www.samford.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>4</schoolId>
+		<schoolName>University of Mobile</schoolName>
+		<schoolStateAbbreviation>AL</schoolStateAbbreviation>
+		<schoolState>Alabama</schoolState>
+		<schoolUrl>http://www.umobile.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>5</schoolId>
+		<schoolName>Hendrix College</schoolName>
+		<schoolStateAbbreviation>AR</schoolStateAbbreviation>
+		<schoolState>Arkansas</schoolState>
+		<schoolUrl>http://www.hendrix.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>6</schoolId>
+		<schoolName>John Brown University</schoolName>
+		<schoolStateAbbreviation>AR</schoolStateAbbreviation>
+		<schoolState>Arkansas</schoolState>
+		<schoolUrl>http://www.jbu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>7</schoolId>
+		<schoolName>Lyon College</schoolName>
+		<schoolStateAbbreviation>AR</schoolStateAbbreviation>
+		<schoolState>Arkansas</schoolState>
+		<schoolUrl>http://www.lyon.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>8</schoolId>
+		<schoolName>California Lutheran University</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.callutheran.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>9</schoolId>
+		<schoolName>Chapman University</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.chapman.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>10</schoolId>
+		<schoolName>Claremont McKenna College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.claremontmckenna.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>11</schoolId>
+		<schoolName>Harvey Mudd College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.hmc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>12</schoolId>
+		<schoolName>Mills College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.mills.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>13</schoolId>
+		<schoolName>Mount Saint Mary&#039;s College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.msmc.la.edu/index.asp</schoolUrl>
+	</school>
+	<school>
+		<schoolId>14</schoolId>
+		<schoolName>Occidental College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.oxy.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>15</schoolId>
+		<schoolName>Pepperdine University</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.pepperdine.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>16</schoolId>
+		<schoolName>Pitzer College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.pitzer.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>17</schoolId>
+		<schoolName>Point Loma Nazarene University</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.pointloma.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>18</schoolId>
+		<schoolName>Pomona College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.pomona.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>19</schoolId>
+		<schoolName>Saint Mary&#039;s College of California</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.stmarys-ca.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>20</schoolId>
+		<schoolName>Stanford University</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.stanford.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>21</schoolId>
+		<schoolName>University of LaVerne</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.ulv.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>22</schoolId>
+		<schoolName>University of Redlands</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.redlands.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>23</schoolId>
+		<schoolName>University of San Diego</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.sandiego.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>24</schoolId>
+		<schoolName>University of the Pacific</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://web.pacific.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>25</schoolId>
+		<schoolName>Westmont College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.westmont.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>26</schoolId>
+		<schoolName>Whittier College</schoolName>
+		<schoolStateAbbreviation>CA</schoolStateAbbreviation>
+		<schoolState>California</schoolState>
+		<schoolUrl>http://www.whittier.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>27</schoolId>
+		<schoolName>Colorado College</schoolName>
+		<schoolStateAbbreviation>CO</schoolStateAbbreviation>
+		<schoolState>Colorado</schoolState>
+		<schoolUrl>http://www.coloradocollege.edu/index.asp</schoolUrl>
+	</school>
+	<school>
+		<schoolId>28</schoolId>
+		<schoolName>Regis University</schoolName>
+		<schoolStateAbbreviation>CO</schoolStateAbbreviation>
+		<schoolState>Colorado</schoolState>
+		<schoolUrl>http://www.regis.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>29</schoolId>
+		<schoolName>Fairfield University</schoolName>
+		<schoolStateAbbreviation>CT</schoolStateAbbreviation>
+		<schoolState>Connecticut</schoolState>
+		<schoolUrl>http://www.fairfield.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>30</schoolId>
+		<schoolName>Trinity College</schoolName>
+		<schoolStateAbbreviation>CT</schoolStateAbbreviation>
+		<schoolState>Connecticut</schoolState>
+		<schoolUrl>http://www.trincoll.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>31</schoolId>
+		<schoolName>Wesleyan University</schoolName>
+		<schoolStateAbbreviation>CT</schoolStateAbbreviation>
+		<schoolState>Connecticut</schoolState>
+		<schoolUrl>http://www.wesleyan.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>32</schoolId>
+		<schoolName>American University</schoolName>
+		<schoolStateAbbreviation>DC</schoolStateAbbreviation>
+		<schoolState>District of Columbia</schoolState>
+		<schoolUrl>http://www.american.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>33</schoolId>
+		<schoolName>Catholic University of America</schoolName>
+		<schoolStateAbbreviation>DC</schoolStateAbbreviation>
+		<schoolState>District of Columbia</schoolState>
+		<schoolUrl>http://www.cua.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>34</schoolId>
+		<schoolName>George Washington University</schoolName>
+		<schoolStateAbbreviation>DC</schoolStateAbbreviation>
+		<schoolState>District of Columbia</schoolState>
+		<schoolUrl>http://www.gwu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>35</schoolId>
+		<schoolName>Ave Maria University</schoolName>
+		<schoolStateAbbreviation>FL</schoolStateAbbreviation>
+		<schoolState>Florida</schoolState>
+		<schoolUrl>http://www.avemaria.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>36</schoolId>
+		<schoolName>Jacksonville University</schoolName>
+		<schoolStateAbbreviation>FL</schoolStateAbbreviation>
+		<schoolState>Florida</schoolState>
+		<schoolUrl>http://www.ju.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>37</schoolId>
+		<schoolName>Rollins College</schoolName>
+		<schoolStateAbbreviation>FL</schoolStateAbbreviation>
+		<schoolState>Florida</schoolState>
+		<schoolUrl>http://www.rollins.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>38</schoolId>
+		<schoolName>Saint Leo University</schoolName>
+		<schoolStateAbbreviation>FL</schoolStateAbbreviation>
+		<schoolState>Florida</schoolState>
+		<schoolUrl>http://www.saintleo.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>1138</schoolId>
+		<schoolName>Stetson University</schoolName>
+		<schoolStateAbbreviation>FL</schoolStateAbbreviation>
+		<schoolState>Florida</schoolState>
+		<schoolUrl>http://www.stetson.edu/home/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>39</schoolId>
+		<schoolName>University of Miami</schoolName>
+		<schoolStateAbbreviation>FL</schoolStateAbbreviation>
+		<schoolState>Florida</schoolState>
+		<schoolUrl>http://www.miami.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>40</schoolId>
+		<schoolName>Agnes Scott College</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.agnesscott.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>41</schoolId>
+		<schoolName>Berry College</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.berry.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>42</schoolId>
+		<schoolName>Clark Atlanta University</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.cau.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>43</schoolId>
+		<schoolName>Covenant College</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.covenant.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>44</schoolId>
+		<schoolName>Emory University</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.emory.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>45</schoolId>
+		<schoolName>LaGrange College</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.lagrange.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>46</schoolId>
+		<schoolName>Mercer University</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.mercer.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>47</schoolId>
+		<schoolName>Oglethorpe University</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.oglethorpe.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>48</schoolId>
+		<schoolName>Spelman College</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.spelman.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>49</schoolId>
+		<schoolName>Wesleyan College</schoolName>
+		<schoolStateAbbreviation>GA</schoolStateAbbreviation>
+		<schoolState>Georgia</schoolState>
+		<schoolUrl>http://www.wesleyancollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>50</schoolId>
+		<schoolName>Chaminade University of Honolulu</schoolName>
+		<schoolStateAbbreviation>HI</schoolStateAbbreviation>
+		<schoolState>Hawaii</schoolState>
+		<schoolUrl>http://www.chaminade.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>51</schoolId>
+		<schoolName>College of Idaho</schoolName>
+		<schoolStateAbbreviation>ID</schoolStateAbbreviation>
+		<schoolState>Idaho</schoolState>
+		<schoolUrl>http://www.collegeofidaho.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>52</schoolId>
+		<schoolName>Northwest Nazarene University</schoolName>
+		<schoolStateAbbreviation>ID</schoolStateAbbreviation>
+		<schoolState>Idaho</schoolState>
+		<schoolUrl>http://www.nnu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>53</schoolId>
+		<schoolName>Augustana College</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.augustana.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>54</schoolId>
+		<schoolName>Bradley University</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.bradley.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>55</schoolId>
+		<schoolName>Elmhurst College</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://public.elmhurst.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>56</schoolId>
+		<schoolName>Illinois Institute of Technology</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.iit.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>57</schoolId>
+		<schoolName>Illinois Wesleyan University</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www2.iwu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>58</schoolId>
+		<schoolName>Knox College</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.knox.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>59</schoolId>
+		<schoolName>Lake Forest College</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.lakeforest.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>60</schoolId>
+		<schoolName>Monmouth College</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.monm.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>61</schoolId>
+		<schoolName>North Central College</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.northcentralcollege.edu/</schoolUrl>
+	</school>
+
+	<school>
+		<schoolId>62</schoolId>
+		<schoolName>Olivet Nazarene University</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.olivet.edu/</schoolUrl>
+	</school>
+
+	<school>
+		<schoolId>63</schoolId>
+		<schoolName>Saint Xavier University</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.sxu.edu/</schoolUrl>
+	</school>
+
+	<school>
+		<schoolId>64</schoolId>
+		<schoolName>University of Chicago</schoolName>
+		<schoolStateAbbreviation>IL</schoolStateAbbreviation>
+		<schoolState>Illinois</schoolState>
+		<schoolUrl>http://www.uchicago.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>65</schoolId>
+		<schoolName>Butler University</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.butler.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>66</schoolId>
+		<schoolName>DePauw University</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.depauw.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>67</schoolId>
+		<schoolName>Earlham College</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.earlham.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>68</schoolId>
+		<schoolName>Franklin College</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.franklincollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>69</schoolId>
+		<schoolName>Rose-Hulman Institute of Technology</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.rose-hulman.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>669</schoolId>
+		<schoolName>Saint Joseph's College</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.saintjoe.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>70</schoolId>
+		<schoolName>Saint Mary&#039;s College</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www3.saintmarys.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>71</schoolId>
+		<schoolName>University of Evansville</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.evansville.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>72</schoolId>
+		<schoolName>University of Notre Dame</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.nd.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>73</schoolId>
+		<schoolName>Valparaiso University</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.valpo.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>74</schoolId>
+		<schoolName>Wabash College</schoolName>
+		<schoolStateAbbreviation>IN</schoolStateAbbreviation>
+		<schoolState>Indiana</schoolState>
+		<schoolUrl>http://www.wabash.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>75</schoolId>
+		<schoolName>Buena Vista University</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.bvu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>76</schoolId>
+		<schoolName>Central College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.central.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>77</schoolId>
+		<schoolName>Clarke University</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.clarke.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>78</schoolId>
+		<schoolName>Dordt College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.dordt.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>79</schoolId>
+		<schoolName>Graceland University</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.graceland.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>80</schoolId>
+		<schoolName>Grinnell College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.grinnell.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>81</schoolId>
+		<schoolName>Loras College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.loras.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>82</schoolId>
+		<schoolName>Luther College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.luther.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>83</schoolId>
+		<schoolName>Northwestern College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.nwciowa.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>84</schoolId>
+		<schoolName>Simpson College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.simpson.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>85</schoolId>
+		<schoolName>Wartburg College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.wartburg.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>302</schoolId>
+		<schoolName>Coe College</schoolName>
+		<schoolStateAbbreviation>IA</schoolStateAbbreviation>
+		<schoolState>Iowa</schoolState>
+		<schoolUrl>http://www.coe.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>86</schoolId>
+		<schoolName>Centre College</schoolName>
+		<schoolStateAbbreviation>KY</schoolStateAbbreviation>
+		<schoolState>Kentucky</schoolState>
+		<schoolUrl>http://www.centre.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>87</schoolId>
+		<schoolName>Transylvania University</schoolName>
+		<schoolStateAbbreviation>KY</schoolStateAbbreviation>
+		<schoolState>Kentucky</schoolState>
+		<schoolUrl>http://www.transy.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>88</schoolId>
+		<schoolName>Centenary College of Louisiana</schoolName>
+		<schoolStateAbbreviation>LA</schoolStateAbbreviation>
+		<schoolState>Louisiana</schoolState>
+		<schoolUrl>http://www.centenary.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>89</schoolId>
+		<schoolName>Dillard University</schoolName>
+		<schoolStateAbbreviation>LA</schoolStateAbbreviation>
+		<schoolState>Louisiana</schoolState>
+		<schoolUrl>http://www.dillard.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>90</schoolId>
+		<schoolName>Tulane University</schoolName>
+		<schoolStateAbbreviation>LA</schoolStateAbbreviation>
+		<schoolState>Louisiana</schoolState>
+		<schoolUrl>http://tulane.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>91</schoolId>
+		<schoolName>Notre Dame of Maryland University</schoolName>
+		<schoolStateAbbreviation>MD</schoolStateAbbreviation>
+		<schoolState>Maryland</schoolState>
+		<schoolUrl>http://www.ndm.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>92</schoolId>
+		<schoolName>Goucher College</schoolName>
+		<schoolStateAbbreviation>MD</schoolStateAbbreviation>
+		<schoolState>Maryland</schoolState>
+		<schoolUrl>http://www.goucher.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>93</schoolId>
+		<schoolName>Johns Hopkins University</schoolName>
+		<schoolStateAbbreviation>MD</schoolStateAbbreviation>
+		<schoolState>Maryland</schoolState>
+		<schoolUrl>http://www.jhu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>94</schoolId>
+		<schoolName>Loyola University in Maryland</schoolName>
+		<schoolStateAbbreviation>MD</schoolStateAbbreviation>
+		<schoolState>Maryland</schoolState>
+		<schoolUrl>http://www.loyola.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>95</schoolId>
+		<schoolName>McDaniel College</schoolName>
+		<schoolStateAbbreviation>MD</schoolStateAbbreviation>
+		<schoolState>Maryland</schoolState>
+		<schoolUrl>http://www.mcdaniel.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>96</schoolId>
+		<schoolName>Mount St. Mary&#039;s University</schoolName>
+		<schoolStateAbbreviation>MD</schoolStateAbbreviation>
+		<schoolState>Maryland</schoolState>
+		<schoolUrl>http://www.msmary.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>97</schoolId>
+		<schoolName>Amherst College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>https://www.amherst.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>98</schoolId>
+		<schoolName>Berklee College of Music</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.berklee.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>99</schoolId>
+		<schoolName>Boston University</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.bu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>100</schoolId>
+		<schoolName>Brandeis University</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.brandeis.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>101</schoolId>
+		<schoolName>Clark University</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.clarku.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>102</schoolId>
+		<schoolName>Gordon College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.gordon.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>103</schoolId>
+		<schoolName>Hampshire College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.hampshire.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>104</schoolId>
+		<schoolName>MIT</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.mit.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>105</schoolId>
+		<schoolName>Mount Holyoke College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.mtholyoke.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>106</schoolId>
+		<schoolName>Smith College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.smith.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>107</schoolId>
+		<schoolName>Springfield College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.spfldcol.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>108</schoolId>
+		<schoolName>Wellesley College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.wellesley.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>109</schoolId>
+		<schoolName>Wheaton College</schoolName>
+		<schoolStateAbbreviation>MA</schoolStateAbbreviation>
+		<schoolState>Massachusetts</schoolState>
+		<schoolUrl>http://www.wheatoncollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>110</schoolId>
+		<schoolName>Albion College</schoolName>
+		<schoolStateAbbreviation>MI</schoolStateAbbreviation>
+		<schoolState>Michigan</schoolState>
+		<schoolUrl>http://www.albion.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>111</schoolId>
+		<schoolName>Hope College</schoolName>
+		<schoolStateAbbreviation>MI</schoolStateAbbreviation>
+		<schoolState>Michigan</schoolState>
+		<schoolUrl>http://www.hope.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>112</schoolId>
+		<schoolName>Kalamazoo College</schoolName>
+		<schoolStateAbbreviation>MI</schoolStateAbbreviation>
+		<schoolState>Michigan</schoolState>
+		<schoolUrl>http://www.kzoo.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>113</schoolId>
+		<schoolName>Augsburg College</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://www.augsburg.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>114</schoolId>
+		<schoolName>Carleton College</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://www.carleton.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>115</schoolId>
+		<schoolName>Concordia College</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://www.cord.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>116</schoolId>
+		<schoolName>Gustavus Adolphus College</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://gustavus.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>117</schoolId>
+		<schoolName>Hamline University</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://www.hamline.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>118</schoolId>
+		<schoolName>Macalester College</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://www.macalester.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>119</schoolId>
+		<schoolName>Saint Olaf College</schoolName>
+		<schoolStateAbbreviation>MN</schoolStateAbbreviation>
+		<schoolState>Minnesota</schoolState>
+		<schoolUrl>http://www.stolaf.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>120</schoolId>
+		<schoolName>Culver-Stockton College</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.culver.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>121</schoolId>
+		<schoolName>Drury University</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.drury.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>122</schoolId>
+		<schoolName>Hannibal-LaGrange College</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.hlg.edu/index.php</schoolUrl>
+	</school>
+	<school>
+		<schoolId>123</schoolId>
+		<schoolName>Maryville University of Saint Louis</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.maryville.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>124</schoolId>
+		<schoolName>Rockhurst University</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.rockhurst.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>125</schoolId>
+		<schoolName>Saint Louis University</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.slu.edu/index.xml</schoolUrl>
+	</school>
+	<school>
+		<schoolId>126</schoolId>
+		<schoolName>Stephens College</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.stephens.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>127</schoolId>
+		<schoolName>Washington University in St. Louis</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.wustl.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>128</schoolId>
+		<schoolName>Webster University</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.webster.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>129</schoolId>
+		<schoolName>Westminster College</schoolName>
+		<schoolStateAbbreviation>MO</schoolStateAbbreviation>
+		<schoolState>Missouri</schoolState>
+		<schoolUrl>http://www.wcmo.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>529</schoolId>
+		<schoolName>Montana College</schoolName>
+		<schoolStateAbbreviation>MT</schoolStateAbbreviation>
+		<schoolState>Montana</schoolState>
+		<schoolUrl>http://www.wcmo.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>130</schoolId>
+		<schoolName>Concordia University</schoolName>
+		<schoolStateAbbreviation>NE</schoolStateAbbreviation>
+		<schoolState>Nebraska</schoolState>
+		<schoolUrl>http://www.cune.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>131</schoolId>
+		<schoolName>Creighton University</schoolName>
+		<schoolStateAbbreviation>NE</schoolStateAbbreviation>
+		<schoolState>Nebraska</schoolState>
+		<schoolUrl>http://www.creighton.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>132</schoolId>
+		<schoolName>Doane College</schoolName>
+		<schoolStateAbbreviation>NE</schoolStateAbbreviation>
+		<schoolState>Nebraska</schoolState>
+		<schoolUrl>http://www.doane.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>133</schoolId>
+		<schoolName>Franklin Pierce University</schoolName>
+		<schoolStateAbbreviation>NH</schoolStateAbbreviation>
+		<schoolState>New Hampshire</schoolState>
+		<schoolUrl>http://www.franklinpierce.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>134</schoolId>
+		<schoolName>Centenary College</schoolName>
+		<schoolStateAbbreviation>NJ</schoolStateAbbreviation>
+		<schoolState>New Jersey</schoolState>
+		<schoolUrl>http://www.centenarycollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>135</schoolId>
+		<schoolName>Drew University</schoolName>
+		<schoolStateAbbreviation>NJ</schoolStateAbbreviation>
+		<schoolState>New Jersey</schoolState>
+		<schoolUrl>http://www.drew.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>136</schoolId>
+		<schoolName>Princeton University</schoolName>
+		<schoolStateAbbreviation>NJ</schoolStateAbbreviation>
+		<schoolState>New Jersey</schoolState>
+		<schoolUrl>http://www.princeton.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>137</schoolId>
+		<schoolName>Rider University</schoolName>
+		<schoolStateAbbreviation>NJ</schoolStateAbbreviation>
+		<schoolState>New Jersey</schoolState>
+		<schoolUrl>http://www.rider.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>138</schoolId>
+		<schoolName>Stevens Institute of Technology</schoolName>
+		<schoolStateAbbreviation>NJ</schoolStateAbbreviation>
+		<schoolState>New Jersey</schoolState>
+		<schoolUrl>http://www.stevens.edu/sit/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>139</schoolId>
+		<schoolName>Bard College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.bard.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>140</schoolId>
+		<schoolName>Canisius College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.canisius.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>141</schoolId>
+		<schoolName>Daemen College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.daemen.edu</schoolUrl>
+	</school>
+	<school>
+		<schoolId>142</schoolId>
+		<schoolName>Elmira College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.elmira.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>143</schoolId>
+		<schoolName>Hartwick College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.hartwick.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>144</schoolId>
+		<schoolName>Hobart &amp; William Smith Colleges</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.hws.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>145</schoolId>
+		<schoolName>Ithaca College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.ithaca.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>146</schoolId>
+		<schoolName>Marist College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.marist.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>147</schoolId>
+		<schoolName>Medaille College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.medaille.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>148</schoolId>
+		<schoolName>Nazareth College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.naz.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>149</schoolId>
+		<schoolName>Niagara University</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.niagara.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>150</schoolId>
+		<schoolName>Pace University</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.pace.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>151</schoolId>
+		<schoolName>Rensselaer Polytechnic Institute</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.rpi.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>152</schoolId>
+		<schoolName>Roberts Wesleyan College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.roberts.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>153</schoolId>
+		<schoolName>Rochester Institute of Technology</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.rit.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>154</schoolId>
+		<schoolName>Skidmore College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://cms.skidmore.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>155</schoolId>
+		<schoolName>Syracuse University</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.syr.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>156</schoolId>
+		<schoolName>University of Rochester</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.rochester.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>157</schoolId>
+		<schoolName>Vassar College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.vassar.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>158</schoolId>
+		<schoolName>Wagner College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.wagner.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>159</schoolId>
+		<schoolName>Wells College</schoolName>
+		<schoolStateAbbreviation>NY</schoolStateAbbreviation>
+		<schoolState>New York</schoolState>
+		<schoolUrl>http://www.wells.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>160</schoolId>
+		<schoolName>Catawba College</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.catawba.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>161</schoolId>
+		<schoolName>Duke University</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.duke.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>162</schoolId>
+		<schoolName>Greensboro College</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.greensborocollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>163</schoolId>
+		<schoolName>Guilford College</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.guilford.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>164</schoolId>
+		<schoolName>Lenoir-Rhyne University</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.lr.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>165</schoolId>
+		<schoolName>Methodist University</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.methodist.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>166</schoolId>
+		<schoolName>Salem College</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.salem.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>167</schoolId>
+		<schoolName>Wake Forest University</schoolName>
+		<schoolStateAbbreviation>NC</schoolStateAbbreviation>
+		<schoolState>North Carolina</schoolState>
+		<schoolUrl>http://www.wfu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>168</schoolId>
+		<schoolName>Ashland University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.ashland.edu/future-undergraduates</schoolUrl>
+	</school>
+	<school>
+		<schoolId>169</schoolId>
+		<schoolName>Baldwin-Wallace University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.bw.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>170</schoolId>
+		<schoolName>Capital University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.capital.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>171</schoolId>
+		<schoolName>Case Western Reserve University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.case.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>172</schoolId>
+		<schoolName>College of Wooster</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.wooster.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>173</schoolId>
+		<schoolName>Denison University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.denison.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>174</schoolId>
+		<schoolName>Hiram College</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.hiram.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>175</schoolId>
+		<schoolName>John Carroll University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.jcu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>176</schoolId>
+		<schoolName>Kenyon College</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.kenyon.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>177</schoolId>
+		<schoolName>Mount Vernon Nazarene University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.mvnu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>178</schoolId>
+		<schoolName>Muskingum University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.muskingum.edu/home/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>179</schoolId>  
+		<schoolName>Oberlin College</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://new.oberlin.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>180</schoolId>
+		<schoolName>Ohio Wesleyan University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.owu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>181</schoolId>
+		<schoolName>Tiffin University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.tiffin.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>182</schoolId>
+		<schoolName>University of Dayton</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.udayton.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>183</schoolId>
+		<schoolName>Wittenberg University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.wittenberg.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>184</schoolId>
+		<schoolName>Xavier University</schoolName>
+		<schoolStateAbbreviation>OH</schoolStateAbbreviation>
+		<schoolState>Ohio</schoolState>
+		<schoolUrl>http://www.xavier.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>185</schoolId>
+		<schoolName>Oklahoma Christian University</schoolName>
+		<schoolStateAbbreviation>OK</schoolStateAbbreviation>
+		<schoolState>Oklahoma</schoolState>
+		<schoolUrl>http://www.oc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>186</schoolId>
+		<schoolName>Southern Nazarene University</schoolName>
+		<schoolStateAbbreviation>OK</schoolStateAbbreviation>
+		<schoolState>Oklahoma</schoolState>
+		<schoolUrl>http://www.snu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>187</schoolId>
+		<schoolName>University of Tulsa</schoolName>
+		<schoolStateAbbreviation>OK</schoolStateAbbreviation>
+		<schoolState>Oklahoma</schoolState>
+		<schoolUrl>http://www.utulsa.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>188</schoolId>
+		<schoolName>Concordia University</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.cu-portland.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>189</schoolId>
+		<schoolName>George Fox University</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.georgefox.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>190</schoolId>
+		<schoolName>Lewis &amp; Clark College</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.lclark.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>191</schoolId>
+		<schoolName>Linfield College</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.linfield.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>192</schoolId>
+		<schoolName>Pacific University</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.pacificu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>193</schoolId>
+		<schoolName>Reed College</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.reed.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>194</schoolId>
+		<schoolName>Willamette University</schoolName>
+		<schoolStateAbbreviation>OR</schoolStateAbbreviation>
+		<schoolState>Oregon</schoolState>
+		<schoolUrl>http://www.willamette.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>1195</schoolId>
+		<schoolName>Albright College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.albright.edu/index.php</schoolUrl>
+	</school>	
+	<school>
+		<schoolId>195</schoolId>
+		<schoolName>Allegheny College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.allegheny.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>196</schoolId>
+		<schoolName>Alvernia College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.alvernia.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>197</schoolId>
+		<schoolName>Arcadia University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.arcadia.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>198</schoolId>
+		<schoolName>Carnegie Mellon University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.cmu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>199</schoolId>
+		<schoolName>Chatham University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.chatham.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>200</schoolId>
+		<schoolName>Dickinson College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.dickinson.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>201</schoolId>
+		<schoolName>Drexel University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.drexel.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>202</schoolId>
+		<schoolName>Franklin &amp; Marshall College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.fandm.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>203</schoolId>
+		<schoolName>Gettysburg College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.gettysburg.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>204</schoolId>
+		<schoolName>Grove City College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.gcc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>205</schoolId>
+		<schoolName>Immaculata University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.immaculata.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>206</schoolId>
+		<schoolName>Juniata College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.juniata.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>207</schoolId>
+		<schoolName>Keystone College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.keystone.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>208</schoolId>
+		<schoolName>La Salle University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.lasalle.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>209</schoolId>
+		<schoolName>Marywood University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.marywood.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>210</schoolId>
+		<schoolName>Moravian College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.moravian.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>211</schoolId>
+		<schoolName>Muhlenberg College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.muhlenberg.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>212</schoolId>
+		<schoolName>Saint Francis University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.francis.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>213</schoolId>
+		<schoolName>Susquehanna University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.susqu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>214</schoolId>
+		<schoolName>Thiel College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.thiel.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>215</schoolId>
+		<schoolName>Ursinus College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.ursinus.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>216</schoolId>
+		<schoolName>Washington &amp; Jefferson College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.washjeff.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>217</schoolId>
+		<schoolName>Waynesburg University</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.waynesburg.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>218</schoolId>
+		<schoolName>Westminster College</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.westminster.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>219</schoolId>
+		<schoolName>York College of Pennsylvania</schoolName>
+		<schoolStateAbbreviation>PA</schoolStateAbbreviation>
+		<schoolState>Pennsylvania</schoolState>
+		<schoolUrl>http://www.ycp.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>220</schoolId>
+		<schoolName>Charleston Southern University</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.csuniv.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>902222</schoolId>
+		<schoolName>Rogers Williams University</schoolName>
+		<schoolStateAbbreviation>RI</schoolStateAbbreviation>
+		<schoolState>Rhode Island</schoolState>
+		<schoolUrl>http://www.ttt.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>221</schoolId>
+		<schoolName>Claflin University</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.claflin.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>222</schoolId>
+		<schoolName>Columbia College</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.columbiacollegesc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>223</schoolId>
+		<schoolName>Converse College</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.converse.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>224</schoolId>
+		<schoolName>Furman University</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.furman.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>225</schoolId>
+		<schoolName>Presbyterian College</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.presby.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>226</schoolId>
+		<schoolName>Wofford College</schoolName>
+		<schoolStateAbbreviation>SC</schoolStateAbbreviation>
+		<schoolState>South Carolina</schoolState>
+		<schoolUrl>http://www.wofford.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>227</schoolId>
+		<schoolName>Augustana College</schoolName>
+		<schoolStateAbbreviation>SD</schoolStateAbbreviation>
+		<schoolState>South Dakota</schoolState>
+		<schoolUrl>http://www.augie.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>228</schoolId>
+		<schoolName>Belmont University</schoolName>
+		<schoolStateAbbreviation>TN</schoolStateAbbreviation>
+		<schoolState>Tennessee</schoolState>
+		<schoolUrl>http://www.belmont.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>229</schoolId>
+		<schoolName>Carson-Newman College</schoolName>
+		<schoolStateAbbreviation>TN</schoolStateAbbreviation>
+		<schoolState>Tennessee</schoolState>
+		<schoolUrl>http://www.cn.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>231</schoolId>
+		<schoolName>Rhodes College</schoolName>
+		<schoolStateAbbreviation>TN</schoolStateAbbreviation>
+		<schoolState>Tennessee</schoolState>
+		<schoolUrl>http://www.rhodes.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>232</schoolId>
+		<schoolName>Trevecca Nazarene University</schoolName>
+		<schoolStateAbbreviation>TN</schoolStateAbbreviation>
+		<schoolState>Tennessee</schoolState>
+		<schoolUrl>http://www.trevecca.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>233</schoolId>
+		<schoolName>Sewanee: University of the South</schoolName>
+		<schoolStateAbbreviation>TN</schoolStateAbbreviation>
+		<schoolState>Tennessee</schoolState>
+		<schoolUrl>http://www.sewanee.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>234</schoolId>
+		<schoolName>Vanderbilt University</schoolName>
+		<schoolStateAbbreviation>TN</schoolStateAbbreviation>
+		<schoolState>Tennessee</schoolState>
+		<schoolUrl>http://www.vanderbilt.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>235</schoolId>
+		<schoolName>Abilene Christian University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.acu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>236</schoolId>
+		<schoolName>Austin College</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.austincollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>237</schoolId>
+		<schoolName>Baylor University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.baylor.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>238</schoolId>
+		<schoolName>Concordia University Texas</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.concordia.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>239</schoolId>
+		<schoolName>Dallas Baptist University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.dbu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>240</schoolId>
+		<schoolName>Hardin-Simmons University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.hsutx.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>241</schoolId>
+		<schoolName>Lubbock Christian University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.lcu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>242</schoolId>
+		<schoolName>Rice University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.rice.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>243</schoolId>
+		<schoolName>St. Edward's University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.stedwards.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>244</schoolId>
+		<schoolName>St. Mary's University of San Antonio</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.stmarytx.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>245</schoolId>
+		<schoolName>Schreiner University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.schreiner.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>246</schoolId>
+		<schoolName>Southern Methodist University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.smu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>247</schoolId>
+		<schoolName>Southwestern University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.southwestern.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>248</schoolId>
+		<schoolName>Texas Christian University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.tcu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>249</schoolId>
+		<schoolName>Trinity University</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.trinity.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>250</schoolId>
+		<schoolName>University of Dallas</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.udallas.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>251</schoolId>
+		<schoolName>University of Mary Hardin-Baylor</schoolName>
+		<schoolStateAbbreviation>TX</schoolStateAbbreviation>
+		<schoolState>Texas</schoolState>
+		<schoolUrl>http://www.umhb.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>252</schoolId>
+		<schoolName>Middlebury College</schoolName>
+		<schoolStateAbbreviation>VT</schoolStateAbbreviation>
+		<schoolState>Vermont</schoolState>
+		<schoolUrl>http://www.middlebury.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>253</schoolId>
+		<schoolName>Saint Michael's College</schoolName>
+		<schoolStateAbbreviation>VT</schoolStateAbbreviation>
+		<schoolState>Vermont</schoolState>
+		<schoolUrl>http://www.smcvt.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>254</schoolId>
+		<schoolName>Bridgewater College</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.bridgewater.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>255</schoolId>
+		<schoolName>Eastern Mennonite University</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.emu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>256</schoolId>
+		<schoolName>Hampden-Sydney College</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.hsc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>257</schoolId>
+		<schoolName>Hollins University</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.hollins.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>258</schoolId>
+		<schoolName>Mary Baldwin College</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.mbc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>259</schoolId>
+		<schoolName>Randolph College</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.randolphcollege.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>260</schoolId>
+		<schoolName>Shenandoah University</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.su.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>261</schoolId>
+		<schoolName>Sweet Briar College</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.sbc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>262</schoolId>
+		<schoolName>University of Richmond</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://www.richmond.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>263</schoolId>
+		<schoolName>Virginia Wesleyan College</schoolName>
+		<schoolStateAbbreviation>VA</schoolStateAbbreviation>
+		<schoolState>Virginia</schoolState>
+		<schoolUrl>http://ww2.vwc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>264</schoolId>
+		<schoolName>Pacific Lutheran University</schoolName>
+		<schoolStateAbbreviation>WA</schoolStateAbbreviation>
+		<schoolState>Washington</schoolState>
+		<schoolUrl>http://www.plu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>265</schoolId>
+		<schoolName>Seattle Pacific University</schoolName>
+		<schoolStateAbbreviation>WA</schoolStateAbbreviation>
+		<schoolState>Washington</schoolState>
+		<schoolUrl>http://www.spu.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>266</schoolId>
+		<schoolName>Whitworth University</schoolName>
+		<schoolStateAbbreviation>WA</schoolStateAbbreviation>
+		<schoolState>Washington</schoolState>
+		<schoolUrl>http://www.whitworth.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>267</schoolId>
+		<schoolName>West Virginia Wesleyan College</schoolName>
+		<schoolStateAbbreviation>WV</schoolStateAbbreviation>
+		<schoolState>West Virginia</schoolState>
+		<schoolUrl>http://www.wvwc.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>268</schoolId>
+		<schoolName>Wheeling Jesuit University</schoolName>
+		<schoolStateAbbreviation>WV</schoolStateAbbreviation>
+		<schoolState>West Virginia</schoolState>
+		<schoolUrl>http://www.wju.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>403</schoolId>
+		<schoolName>Beloit College</schoolName>
+		<schoolStateAbbreviation>WI</schoolStateAbbreviation>
+		<schoolState>Wisconsin</schoolState>
+		<schoolUrl>http://www.beloit.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>269</schoolId>
+		<schoolName>Concordia University</schoolName>
+		<schoolStateAbbreviation>WI</schoolStateAbbreviation>
+		<schoolState>Wisconsin</schoolState>
+		<schoolUrl>http://www.cuw.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>270</schoolId>
+		<schoolName>Lakeland College</schoolName>
+		<schoolStateAbbreviation>WI</schoolStateAbbreviation>
+		<schoolState>Wisconsin</schoolState>
+		<schoolUrl>http://www.lakeland.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>271</schoolId>
+		<schoolName>Lawrence University</schoolName>
+		<schoolStateAbbreviation>WI</schoolStateAbbreviation>
+		<schoolState>Wisconsin</schoolState>
+		<schoolUrl>http://www.lawrence.edu/</schoolUrl>
+	</school>
+	<school>
+		<schoolId>272</schoolId>
+		<schoolName>Ripon College</schoolName>
+		<schoolStateAbbreviation>WI</schoolStateAbbreviation>
+		<schoolState>Wisconsin</schoolState>
+		<schoolUrl>http://www.ripon.edu/</schoolUrl>
+	</school>
+</participatingSchools>
+

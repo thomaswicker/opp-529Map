@@ -1,0 +1,70 @@
+
+
+/* % COLOR PALETTE % */
+
+// Generic monochrome colors
+$none:              transparent;
+$white:             #ffffff;
+$off-white:         #f4f4f4;
+$xlight-gray:       #dedede;
+$light-gray:        #bcbcbc;
+$medium-gray:       #777777;
+$dark-gray:         #444444;
+$black:             #000000;
+
+// Standard color palette
+$blue-1:            #6399b4;
+$blue-2:            #1f4469;
+
+// Font Weights
+$font-weight-xlight:    200;
+$font-weight-light:     300;
+$font-weight-normal:    400;
+$font-weight-semibold:  500;
+$font-weight-bold:      600;
+$font-weight-ultra:     800;
+
+// Font Sizes
+$font-size-tiny:        0.6rem;
+$font-size-sm:          1rem;
+$font-size-md:          1.3rem;
+$font-size-lg:          1.7rem;
+$font-size-xl:          2.2rem;
+$font-size-jumbo:       3rem;
+
+// Font Familes Variables
+
+//base san-serif font family
+$font-1: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+
+//custom font family
+$font-2: 'Lato', sans-serif;
+
+//serif font family
+$font-3: "Times New Roman", Times, serif;
+
+//often used for code blocks
+$font-4: "Courier New", Courier, monospace;
+
+
+
+/* % BEGIN MEDIA QUERY VARIABLES % */
+
+// small range (0px --> 640px) ==> Good for mobile devices
+$sm-start:   0em;         
+$sm-end:     40em;
+
+// medium range (641px --> 1024px) ==> Good for tablet devices
+$md-start:  40.063em;
+$md-end:    64em;
+
+// large range (1025px --> 1440px) ==> Good for portable & laptop devices
+$lg-start:   64.063em;
+$lg-end:     90em;
+
+// xlarge range (1441px --> 1992px)  ==> Good for large screens & desktop
+$xl-start:  90.063em;
+$xl-end:    124em;
+
+// jumbo range (1993px --> up)  ==> Good for everything above large screens & desktop
+$jumbo-start:  124.063em;

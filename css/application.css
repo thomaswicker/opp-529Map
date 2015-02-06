@@ -1,0 +1,380 @@
+@charset "UTF-8";
+/* ## PARTIAL IMPORTS ## */
+/* —————————— BEGIN RESET CSS —————————— */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, figure, footer, header, hgroup, menu, nav, section, menu,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+article, aside, figure, footer, header,
+hgroup, nav, section {
+  display: block;
+}
+
+nav ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+  border-bottom: 1px dotted #000;
+  cursor: help;
+}
+
+/* tables still need cellspacing="0" in the markup */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+input, select {
+  vertical-align: middle;
+}
+
+/* PAUL IRISH BORDER BOX SIZING FIX -- apply a natural box layout model to all elements */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+/* —————————— END RESET CSS —————————— */
+/* % COLOR PALETTE % */
+/* % BEGIN MEDIA QUERY VARIABLES % */
+/* % Generic font mixin
+
+--- USAGE ---
+
+  @include font($font: $font-1, $style: normal, $size: $h1-size, $weight: normal);
+
+--------------
+% */
+/* % Media Query mixin 
+
+--- USAGE ---
+
+  @include mg(sm);
+  @include mg(md);
+  @include mg(lg);
+  @include mg(xl);
+  @include mg(jumbo);
+
+--------------
+% */
+body {
+  box-sizing: border-box;
+}
+
+.bgRED {
+  background-color: red !important;
+  display: none !important;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  text-align: center;
+  padding-top: 25px;
+}
+#map svg {
+  height: 50vw;
+}
+#map path {
+  -webkit-transition: .5s fill;
+          transition: .5s fill;
+  fill: #6399b4;
+  stroke: #ffffff;
+  stroke-width: 2;
+}
+@media only screen and (min-width: 0em) and (max-width: 40em) {
+  #map path {
+    stroke-width: 3;
+  }
+}
+#map path:hover {
+  fill: #1f4469;
+  cursor: pointer;
+}
+
+#dialog {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.8);
+  display: none;
+  box-sizing: border-box;
+}
+
+#data {
+  float: left;
+  width: 40%;
+  border-right: 1px solid #bbbbbb;
+  overflow: auto;
+  min-height: 200px;
+  max-height: 550px;
+  box-sizing: border-box;
+}
+#data li {
+  float: left;
+  width: 100%;
+  padding: 15px 20px 15px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 1px solid #cccccc;
+}
+#data li:nth-child(even) {
+  background-color: #efefef;
+}
+#data li:hover {
+  background-color: #dddddd;
+}
+#data li span {
+  display: none;
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  #data {
+    width: 50%;
+  }
+}
+@media only screen and (min-width: 0em) and (max-width: 40em) {
+  #data {
+    width: 100%;
+  }
+}
+
+#state {
+  float: left;
+  width: 60%;
+  height: 550px;
+  background-color: #d1e1e9;
+  text-align: center;
+  box-sizing: border-box;
+}
+#state .state {
+  width: 100%;
+  display: inline-block;
+  margin-top: 2%;
+  padding: 30px;
+}
+#state .state svg {
+  width: 100%;
+  max-height: 470px;
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  #state {
+    width: 50%;
+  }
+}
+@media only screen and (min-width: 0em) and (max-width: 40em) {
+  #state {
+    width: 100%;
+  }
+}
+
+.dotHover {
+  display: none !important;
+}
+
+#counter {
+  width: 200px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  margin-left: -100px;
+  padding-top: 10px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.modal-box {
+  position: relative;
+  top: 100px;
+  width: 90%;
+  height: 550px;
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 1px 1px 25px #000000;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=25, Direction=135, Color='#000000')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=25, Direction=135, Color='#000000');
+  box-sizing: border-box;
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  .modal-box {
+    width: 90%;
+  }
+}
+@media only screen and (min-width: 0em) and (max-width: 40em) {
+  .modal-box {
+    width: 90%;
+  }
+}
+
+.active {
+  display: block !important;
+}
+
+.hide {
+  display: none !important;
+}
+
+.stateName {
+  float: left;
+  width: 100%;
+  height: 35px;
+  background-color: #6399b4;
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 10px;
+  margin-top: -35px;
+  font-size: 1.2rem;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.rhode-island svg {
+  max-height: 470px;
+  max-width: 120px;
+  padding-top: 130px;
+}
+
+.connecticut svg {
+  max-height: 470px;
+  max-width: 170px;
+  padding-top: 120px;
+}
+
+.maryland svg {
+  max-height: 470px;
+  max-width: 350px;
+  padding-top: 100px;
+}
+
+.vermont svg {
+  max-height: 470px;
+  max-width: 140px;
+  padding-top: 60px;
+}
+
+.new-hampshire svg {
+  max-height: 470px;
+  max-width: 140px;
+  padding-top: 60px;
+}
+
+.massachusetts svg {
+  max-height: 470px;
+  max-width: 480px;
+  padding-top: 80px;
+}
+
+.new-jersey svg {
+  max-height: 470px;
+  padding-top: 50px;
+}
+
+.delaware svg {
+  max-height: 470px;
+  max-width: 120px;
+  padding-top: 120px;
+}
+
+.south-carolina svg {
+  max-height: 470px;
+  max-width: 420px;
+  padding-top: 90px;
+}
+
+.pennsylvania svg {
+  max-height: 470px;
+  max-width: 480px;
+  padding-top: 70px;
+}
+
+.west-virginia svg {
+  max-height: 470px;
+  max-width: 410px;
+  padding-top: 20px;
+}
+
+.tennessee svg {
+  max-height: 470px;
+  max-width: 520px;
+  padding-top: 130px;
+}
+
+.scaling-svg-container {
+  position: relative;
+  height: 0;
+  width: 100%;
+  padding: 0;
+  padding-bottom: 100%;
+  /* override this inline for aspect ratio other than square */
+}
+
+.scaling-svg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}

@@ -1,0 +1,2031 @@
+{
+    "AK": [],
+    "AL": [
+        {
+            "schoolId": "1",
+            "schoolName": "Birmingham-Southern College",
+            "schoolStateAbbreviation": "AL",
+            "schoolState": "Alabama",
+            "schoolUrl": "http://www.bsc.edu/"
+        },
+        {
+            "schoolId": "2",
+            "schoolName": "Faulkner University",
+            "schoolStateAbbreviation": "AL",
+            "schoolState": "Alabama",
+            "schoolUrl": "http://www.faulkner.edu/"
+        },
+        {
+            "schoolId": "3",
+            "schoolName": "Samford University",
+            "schoolStateAbbreviation": "AL",
+            "schoolState": "Alabama",
+            "schoolUrl": "http://www.samford.edu/"
+        },
+        {
+            "schoolId": "4",
+            "schoolName": "University of Mobile",
+            "schoolStateAbbreviation": "AL",
+            "schoolState": "Alabama",
+            "schoolUrl": "http://www.umobile.edu/"
+        }
+    ],
+    "AR": [
+        {
+            "schoolId": "5",
+            "schoolName": "Hendrix College",
+            "schoolStateAbbreviation": "AR",
+            "schoolState": "Arkansas",
+            "schoolUrl": "http://www.hendrix.edu/"
+        },
+        {
+            "schoolId": "6",
+            "schoolName": "John Brown University",
+            "schoolStateAbbreviation": "AR",
+            "schoolState": "Arkansas",
+            "schoolUrl": "http://www.jbu.edu/"
+        },
+        {
+            "schoolId": "7",
+            "schoolName": "Lyon College",
+            "schoolStateAbbreviation": "AR",
+            "schoolState": "Arkansas",
+            "schoolUrl": "http://www.lyon.edu/"
+        }
+    ],
+    "AZ": [],
+    "CA": [
+        {
+            "schoolId": "1",
+            "schoolName": "California Lutheran University",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.callutheran.edu/"
+        },
+        {
+            "schoolId": "2",
+            "schoolName": "Chapman University",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.chapman.edu/"
+        },
+        {
+            "schoolId": "3",
+            "schoolName": "Claremont McKenna College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.claremontmckenna.edu/"
+        },
+        {
+            "schoolId": "4",
+            "schoolName": "Harvey Mudd College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.hmc.edu/"
+        },
+        {
+            "schoolId": "5",
+            "schoolName": "Mills College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.mills.edu/"
+        },
+        {
+            "schoolId": "6",
+            "schoolName": "Mount Saint Mary's College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.msmc.la.edu/index.asp"
+        },
+        {
+            "schoolId": "7",
+            "schoolName": "Occidental College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.oxy.edu/"
+        },
+        {
+            "schoolId": "8",
+            "schoolName": "Pepperdine University",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.pepperdine.edu/"
+        },
+        {
+            "schoolId": "9",
+            "schoolName": "Pitzer College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.pitzer.edu/"
+        },
+        {
+            "schoolId": "10",
+            "schoolName": "Point Loma Nazarene University",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.pointloma.edu/"
+        },
+        {
+            "schoolId": "11",
+            "schoolName": "Pomona College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.pomona.edu/"
+        },
+        {
+            "schoolId": "12",
+            "schoolName": "Saint Mary's College of California",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.stmarys-ca.edu/"
+        },
+        {
+            "schoolId": "13",
+            "schoolName": "Stanford University",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.stanford.edu/"
+        },
+        {
+            "schoolId": "14",
+            "schoolName": "University of LaVerne",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.ulv.edu/"
+        },
+        {
+            "schoolId": "15",
+            "schoolName": "University of Redlands",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.redlands.edu/"
+        },
+        {
+            "schoolId": "16",
+            "schoolName": "University of San Diego",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.sandiego.edu/"
+        },
+        {
+            "schoolId": "17",
+            "schoolName": "University of the Pacific",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://web.pacific.edu/"
+        },
+        {
+            "schoolId": "18",
+            "schoolName": "Westmont College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.westmont.edu/"
+        },
+        {
+            "schoolId": "19",
+            "schoolName": "Whittier College",
+            "schoolStateAbbreviation": "CA",
+            "schoolState": "California",
+            "schoolUrl": "http://www.whittier.edu/"
+        }
+    ],
+    "CO": [
+        {
+            "schoolId": "27",
+            "schoolName": "Colorado College",
+            "schoolStateAbbreviation": "CO",
+            "schoolState": "Colorado",
+            "schoolUrl": "http://www.coloradocollege.edu/index.asp"
+        },
+        {
+            "schoolId": "28",
+            "schoolName": "Regis University",
+            "schoolStateAbbreviation": "CO",
+            "schoolState": "Colorado",
+            "schoolUrl": "http://www.regis.edu/"
+        }
+    ],
+    "CT": [
+        {
+            "schoolId": "29",
+            "schoolName": "Fairfield University",
+            "schoolStateAbbreviation": "CT",
+            "schoolState": "Connecticut",
+            "schoolUrl": "http://www.fairfield.edu/"
+        },
+        {
+            "schoolId": "30",
+            "schoolName": "Trinity College",
+            "schoolStateAbbreviation": "CT",
+            "schoolState": "Connecticut",
+            "schoolUrl": "http://www.trincoll.edu/"
+        },
+        {
+            "schoolId": "31",
+            "schoolName": "Wesleyan University",
+            "schoolStateAbbreviation": "CT",
+            "schoolState": "Connecticut",
+            "schoolUrl": "http://www.wesleyan.edu/"
+        }
+    ],
+    "DC": [
+        {
+            "schoolId": "32",
+            "schoolName": "American University",
+            "schoolStateAbbreviation": "DC",
+            "schoolState": "District of Columbia",
+            "schoolUrl": "http://www.american.edu/"
+        },
+        {
+            "schoolId": "33",
+            "schoolName": "Catholic University of America",
+            "schoolStateAbbreviation": "DC",
+            "schoolState": "District of Columbia",
+            "schoolUrl": "http://www.cua.edu/"
+        },
+        {
+            "schoolId": "34",
+            "schoolName": "George Washington University",
+            "schoolStateAbbreviation": "DC",
+            "schoolState": "District of Columbia",
+            "schoolUrl": "http://www.gwu.edu/"
+        }
+    ],
+    "DE": [],
+    "FL": [
+        {
+            "schoolId": "35",
+            "schoolName": "Ave Maria University",
+            "schoolStateAbbreviation": "FL",
+            "schoolState": "Florida",
+            "schoolUrl": "http://www.avemaria.edu/"
+        },
+        {
+            "schoolId": "36",
+            "schoolName": "Jacksonville University",
+            "schoolStateAbbreviation": "FL",
+            "schoolState": "Florida",
+            "schoolUrl": "http://www.ju.edu/"
+        },
+        {
+            "schoolId": "37",
+            "schoolName": "Rollins College",
+            "schoolStateAbbreviation": "FL",
+            "schoolState": "Florida",
+            "schoolUrl": "http://www.rollins.edu/"
+        },
+        {
+            "schoolId": "38",
+            "schoolName": "Saint Leo University",
+            "schoolStateAbbreviation": "FL",
+            "schoolState": "Florida",
+            "schoolUrl": "http://www.saintleo.edu/"
+        },
+        {
+            "schoolId": "1138",
+            "schoolName": "Stetson University",
+            "schoolStateAbbreviation": "FL",
+            "schoolState": "Florida",
+            "schoolUrl": "http://www.stetson.edu/home/"
+        },
+        {
+            "schoolId": "39",
+            "schoolName": "University of Miami",
+            "schoolStateAbbreviation": "FL",
+            "schoolState": "Florida",
+            "schoolUrl": "http://www.miami.edu/"
+        }
+    ],
+    "GA": [
+        {
+            "schoolId": "40",
+            "schoolName": "Agnes Scott College",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.agnesscott.edu/"
+        },
+        {
+            "schoolId": "41",
+            "schoolName": "Berry College",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.berry.edu/"
+        },
+        {
+            "schoolId": "42",
+            "schoolName": "Clark Atlanta University",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.cau.edu/"
+        },
+        {
+            "schoolId": "43",
+            "schoolName": "Covenant College",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.covenant.edu/"
+        },
+        {
+            "schoolId": "44",
+            "schoolName": "Emory University",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.emory.edu/"
+        },
+        {
+            "schoolId": "45",
+            "schoolName": "LaGrange College",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.lagrange.edu/"
+        },
+        {
+            "schoolId": "46",
+            "schoolName": "Mercer University",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.mercer.edu/"
+        },
+        {
+            "schoolId": "47",
+            "schoolName": "Oglethorpe University",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.oglethorpe.edu/"
+        },
+        {
+            "schoolId": "48",
+            "schoolName": "Spelman College",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.spelman.edu/"
+        },
+        {
+            "schoolId": "49",
+            "schoolName": "Wesleyan College",
+            "schoolStateAbbreviation": "GA",
+            "schoolState": "Georgia",
+            "schoolUrl": "http://www.wesleyancollege.edu/"
+        }
+    ],
+    "HI": [
+        {
+            "schoolId": "50",
+            "schoolName": "Chaminade University of Honolulu",
+            "schoolStateAbbreviation": "HI",
+            "schoolState": "Hawaii",
+            "schoolUrl": "http://www.chaminade.edu/"
+        }
+    ],
+    "IA": [
+        {
+            "schoolId": "75",
+            "schoolName": "Buena Vista University",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.bvu.edu/"
+        },
+        {
+            "schoolId": "76",
+            "schoolName": "Central College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.central.edu/"
+        },
+        {
+            "schoolId": "77",
+            "schoolName": "Clarke University",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.clarke.edu/"
+        },
+        {
+            "schoolId": "78",
+            "schoolName": "Dordt College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.dordt.edu/"
+        },
+        {
+            "schoolId": "79",
+            "schoolName": "Graceland University",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.graceland.edu/"
+        },
+        {
+            "schoolId": "80",
+            "schoolName": "Grinnell College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.grinnell.edu/"
+        },
+        {
+            "schoolId": "81",
+            "schoolName": "Loras College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.loras.edu/"
+        },
+        {
+            "schoolId": "82",
+            "schoolName": "Luther College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.luther.edu/"
+        },
+        {
+            "schoolId": "83",
+            "schoolName": "Northwestern College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.nwciowa.edu/"
+        },
+        {
+            "schoolId": "84",
+            "schoolName": "Simpson College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.simpson.edu/"
+        },
+        {
+            "schoolId": "85",
+            "schoolName": "Wartburg College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.wartburg.edu/"
+        },
+        {
+            "schoolId": "302",
+            "schoolName": "Coe College",
+            "schoolStateAbbreviation": "IA",
+            "schoolState": "Iowa",
+            "schoolUrl": "http://www.coe.edu/"
+        }
+    ],
+    "ID": [
+        {
+            "schoolId": "51",
+            "schoolName": "College of Idaho",
+            "schoolStateAbbreviation": "ID",
+            "schoolState": "Idaho",
+            "schoolUrl": "http://www.collegeofidaho.edu/"
+        },
+        {
+            "schoolId": "52",
+            "schoolName": "Northwest Nazarene University",
+            "schoolStateAbbreviation": "ID",
+            "schoolState": "Idaho",
+            "schoolUrl": "http://www.nnu.edu/"
+        }
+    ],
+    "IL": [
+        {
+            "schoolId": "53",
+            "schoolName": "Augustana College",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.augustana.edu/"
+        },
+        {
+            "schoolId": "54",
+            "schoolName": "Bradley University",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.bradley.edu/"
+        },
+        {
+            "schoolId": "55",
+            "schoolName": "Elmhurst College",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://public.elmhurst.edu/"
+        },
+        {
+            "schoolId": "56",
+            "schoolName": "Illinois Institute of Technology",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.iit.edu/"
+        },
+        {
+            "schoolId": "57",
+            "schoolName": "Illinois Wesleyan University",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www2.iwu.edu/"
+        },
+        {
+            "schoolId": "58",
+            "schoolName": "Knox College",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.knox.edu/"
+        },
+        {
+            "schoolId": "59",
+            "schoolName": "Lake Forest College",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.lakeforest.edu/"
+        },
+        {
+            "schoolId": "60",
+            "schoolName": "Monmouth College",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.monm.edu/"
+        },
+        {
+            "schoolId": "61",
+            "schoolName": "North Central College",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.northcentralcollege.edu/"
+        },
+        {
+            "schoolId": "62",
+            "schoolName": "Olivet Nazarene University",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.olivet.edu/"
+        },
+        {
+            "schoolId": "63",
+            "schoolName": "Saint Xavier University",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.sxu.edu/"
+        },
+        {
+            "schoolId": "64",
+            "schoolName": "University of Chicago",
+            "schoolStateAbbreviation": "IL",
+            "schoolState": "Illinois",
+            "schoolUrl": "http://www.uchicago.edu/"
+        }
+    ],
+    "IN": [
+        {
+            "schoolId": "65",
+            "schoolName": "Butler University",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.butler.edu/"
+        },
+        {
+            "schoolId": "66",
+            "schoolName": "DePauw University",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.depauw.edu/"
+        },
+        {
+            "schoolId": "67",
+            "schoolName": "Earlham College",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.earlham.edu/"
+        },
+        {
+            "schoolId": "68",
+            "schoolName": "Franklin College",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.franklincollege.edu/"
+        },
+        {
+            "schoolId": "69",
+            "schoolName": "Rose-Hulman Institute of Technology",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.rose-hulman.edu/"
+        },
+        {
+            "schoolId": "669",
+            "schoolName": "Saint Joseph's College",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.saintjoe.edu/"
+        },
+        {
+            "schoolId": "70",
+            "schoolName": "Saint Mary's College",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www3.saintmarys.edu/"
+        },
+        {
+            "schoolId": "71",
+            "schoolName": "University of Evansville",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.evansville.edu/"
+        },
+        {
+            "schoolId": "72",
+            "schoolName": "University of Notre Dame",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.nd.edu/"
+        },
+        {
+            "schoolId": "73",
+            "schoolName": "Valparaiso University",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.valpo.edu/"
+        },
+        {
+            "schoolId": "74",
+            "schoolName": "Wabash College",
+            "schoolStateAbbreviation": "IN",
+            "schoolState": "Indiana",
+            "schoolUrl": "http://www.wabash.edu/"
+        }
+    ],
+    "KS": [],
+    "KY": [
+        {
+            "schoolId": "86",
+            "schoolName": "Centre College",
+            "schoolStateAbbreviation": "KY",
+            "schoolState": "Kentucky",
+            "schoolUrl": "http://www.centre.edu/"
+        },
+        {
+            "schoolId": "87",
+            "schoolName": "Transylvania University",
+            "schoolStateAbbreviation": "KY",
+            "schoolState": "Kentucky",
+            "schoolUrl": "http://www.transy.edu/"
+        }
+    ],
+    "LA": [
+        {
+            "schoolId": "88",
+            "schoolName": "Centenary College of Louisiana",
+            "schoolStateAbbreviation": "LA",
+            "schoolState": "Louisiana",
+            "schoolUrl": "http://www.centenary.edu/"
+        },
+        {
+            "schoolId": "89",
+            "schoolName": "Dillard University",
+            "schoolStateAbbreviation": "LA",
+            "schoolState": "Louisiana",
+            "schoolUrl": "http://www.dillard.edu/"
+        },
+        {
+            "schoolId": "90",
+            "schoolName": "Tulane University",
+            "schoolStateAbbreviation": "LA",
+            "schoolState": "Louisiana",
+            "schoolUrl": "http://tulane.edu/"
+        }
+    ],
+    "MA": [
+        {
+            "schoolId": "97",
+            "schoolName": "Amherst College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "https://www.amherst.edu/"
+        },
+        {
+            "schoolId": "98",
+            "schoolName": "Berklee College of Music",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.berklee.edu/"
+        },
+        {
+            "schoolId": "99",
+            "schoolName": "Boston University",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.bu.edu/"
+        },
+        {
+            "schoolId": "100",
+            "schoolName": "Brandeis University",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.brandeis.edu/"
+        },
+        {
+            "schoolId": "101",
+            "schoolName": "Clark University",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.clarku.edu/"
+        },
+        {
+            "schoolId": "102",
+            "schoolName": "Gordon College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.gordon.edu/"
+        },
+        {
+            "schoolId": "103",
+            "schoolName": "Hampshire College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.hampshire.edu/"
+        },
+        {
+            "schoolId": "104",
+            "schoolName": "MIT",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.mit.edu/"
+        },
+        {
+            "schoolId": "105",
+            "schoolName": "Mount Holyoke College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.mtholyoke.edu/"
+        },
+        {
+            "schoolId": "106",
+            "schoolName": "Smith College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.smith.edu/"
+        },
+        {
+            "schoolId": "107",
+            "schoolName": "Springfield College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.spfldcol.edu/"
+        },
+        {
+            "schoolId": "108",
+            "schoolName": "Wellesley College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.wellesley.edu/"
+        },
+        {
+            "schoolId": "109",
+            "schoolName": "Wheaton College",
+            "schoolStateAbbreviation": "MA",
+            "schoolState": "Massachusetts",
+            "schoolUrl": "http://www.wheatoncollege.edu/"
+        }
+    ],
+    "MD": [
+        {
+            "schoolId": "91",
+            "schoolName": "Notre Dame of Maryland University",
+            "schoolStateAbbreviation": "MD",
+            "schoolState": "Maryland",
+            "schoolUrl": "http://www.ndm.edu/"
+        },
+        {
+            "schoolId": "92",
+            "schoolName": "Goucher College",
+            "schoolStateAbbreviation": "MD",
+            "schoolState": "Maryland",
+            "schoolUrl": "http://www.goucher.edu/"
+        },
+        {
+            "schoolId": "93",
+            "schoolName": "Johns Hopkins University",
+            "schoolStateAbbreviation": "MD",
+            "schoolState": "Maryland",
+            "schoolUrl": "http://www.jhu.edu/"
+        },
+        {
+            "schoolId": "94",
+            "schoolName": "Loyola University in Maryland",
+            "schoolStateAbbreviation": "MD",
+            "schoolState": "Maryland",
+            "schoolUrl": "http://www.loyola.edu/"
+        },
+        {
+            "schoolId": "95",
+            "schoolName": "McDaniel College",
+            "schoolStateAbbreviation": "MD",
+            "schoolState": "Maryland",
+            "schoolUrl": "http://www.mcdaniel.edu/"
+        },
+        {
+            "schoolId": "96",
+            "schoolName": "Mount St. Mary's University",
+            "schoolStateAbbreviation": "MD",
+            "schoolState": "Maryland",
+            "schoolUrl": "http://www.msmary.edu/"
+        }
+    ],
+    "ME": [],
+    "MI": [
+        {
+            "schoolId": "110",
+            "schoolName": "Albion College",
+            "schoolStateAbbreviation": "MI",
+            "schoolState": "Michigan",
+            "schoolUrl": "http://www.albion.edu/"
+        },
+        {
+            "schoolId": "111",
+            "schoolName": "Hope College",
+            "schoolStateAbbreviation": "MI",
+            "schoolState": "Michigan",
+            "schoolUrl": "http://www.hope.edu/"
+        },
+        {
+            "schoolId": "112",
+            "schoolName": "Kalamazoo College",
+            "schoolStateAbbreviation": "MI",
+            "schoolState": "Michigan",
+            "schoolUrl": "http://www.kzoo.edu/"
+        }
+    ],
+    "MN": [
+        {
+            "schoolId": "113",
+            "schoolName": "Augsburg College",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://www.augsburg.edu/"
+        },
+        {
+            "schoolId": "114",
+            "schoolName": "Carleton College",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://www.carleton.edu/"
+        },
+        {
+            "schoolId": "115",
+            "schoolName": "Concordia College",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://www.cord.edu/"
+        },
+        {
+            "schoolId": "116",
+            "schoolName": "Gustavus Adolphus College",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://gustavus.edu/"
+        },
+        {
+            "schoolId": "117",
+            "schoolName": "Hamline University",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://www.hamline.edu/"
+        },
+        {
+            "schoolId": "118",
+            "schoolName": "Macalester College",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://www.macalester.edu/"
+        },
+        {
+            "schoolId": "119",
+            "schoolName": "Saint Olaf College",
+            "schoolStateAbbreviation": "MN",
+            "schoolState": "Minnesota",
+            "schoolUrl": "http://www.stolaf.edu/"
+        }
+    ],
+    "MO": [
+        {
+            "schoolId": "120",
+            "schoolName": "Culver-Stockton College",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.culver.edu/"
+        },
+        {
+            "schoolId": "121",
+            "schoolName": "Drury University",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.drury.edu/"
+        },
+        {
+            "schoolId": "122",
+            "schoolName": "Hannibal-LaGrange College",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.hlg.edu/index.php"
+        },
+        {
+            "schoolId": "123",
+            "schoolName": "Maryville University of Saint Louis",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.maryville.edu/"
+        },
+        {
+            "schoolId": "124",
+            "schoolName": "Rockhurst University",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.rockhurst.edu/"
+        },
+        {
+            "schoolId": "125",
+            "schoolName": "Saint Louis University",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.slu.edu/index.xml"
+        },
+        {
+            "schoolId": "126",
+            "schoolName": "Stephens College",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.stephens.edu/"
+        },
+        {
+            "schoolId": "127",
+            "schoolName": "Washington University in St. Louis",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.wustl.edu/"
+        },
+        {
+            "schoolId": "128",
+            "schoolName": "Webster University",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.webster.edu/"
+        },
+        {
+            "schoolId": "129",
+            "schoolName": "Westminster College",
+            "schoolStateAbbreviation": "MO",
+            "schoolState": "Missouri",
+            "schoolUrl": "http://www.wcmo.edu/"
+        }
+    ],
+    "MS": [],
+    "MT": [],
+    "NC": [
+        {
+            "schoolId": "160",
+            "schoolName": "Catawba College",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.catawba.edu/"
+        },
+        {
+            "schoolId": "161",
+            "schoolName": "Duke University",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.duke.edu/"
+        },
+        {
+            "schoolId": "162",
+            "schoolName": "Greensboro College",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.greensborocollege.edu/"
+        },
+        {
+            "schoolId": "163",
+            "schoolName": "Guilford College",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.guilford.edu/"
+        },
+        {
+            "schoolId": "164",
+            "schoolName": "Lenoir-Rhyne University",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.lr.edu/"
+        },
+        {
+            "schoolId": "165",
+            "schoolName": "Methodist University",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.methodist.edu/"
+        },
+        {
+            "schoolId": "166",
+            "schoolName": "Salem College",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.salem.edu/"
+        },
+        {
+            "schoolId": "167",
+            "schoolName": "Wake Forest University",
+            "schoolStateAbbreviation": "NC",
+            "schoolState": "North Carolina",
+            "schoolUrl": "http://www.wfu.edu/"
+        }
+    ],
+    "ND": [],
+    "NE": [
+        {
+            "schoolId": "130",
+            "schoolName": "Concordia University",
+            "schoolStateAbbreviation": "NE",
+            "schoolState": "Nebraska",
+            "schoolUrl": "http://www.cune.edu/"
+        },
+        {
+            "schoolId": "131",
+            "schoolName": "Creighton University",
+            "schoolStateAbbreviation": "NE",
+            "schoolState": "Nebraska",
+            "schoolUrl": "http://www.creighton.edu/"
+        },
+        {
+            "schoolId": "132",
+            "schoolName": "Doane College",
+            "schoolStateAbbreviation": "NE",
+            "schoolState": "Nebraska",
+            "schoolUrl": "http://www.doane.edu/"
+        }
+    ],
+    "NH": [
+        {
+            "schoolId": "133",
+            "schoolName": "Franklin Pierce University",
+            "schoolStateAbbreviation": "NH",
+            "schoolState": "New Hampshire",
+            "schoolUrl": "http://www.franklinpierce.edu/"
+        }
+    ],
+    "NJ": [
+        {
+            "schoolId": "134",
+            "schoolName": "Centenary College",
+            "schoolStateAbbreviation": "NJ",
+            "schoolState": "New Jersey",
+            "schoolUrl": "http://www.centenarycollege.edu/"
+        },
+        {
+            "schoolId": "135",
+            "schoolName": "Drew University",
+            "schoolStateAbbreviation": "NJ",
+            "schoolState": "New Jersey",
+            "schoolUrl": "http://www.drew.edu/"
+        },
+        {
+            "schoolId": "136",
+            "schoolName": "Princeton University",
+            "schoolStateAbbreviation": "NJ",
+            "schoolState": "New Jersey",
+            "schoolUrl": "http://www.princeton.edu/"
+        },
+        {
+            "schoolId": "137",
+            "schoolName": "Rider University",
+            "schoolStateAbbreviation": "NJ",
+            "schoolState": "New Jersey",
+            "schoolUrl": "http://www.rider.edu/"
+        },
+        {
+            "schoolId": "138",
+            "schoolName": "Stevens Institute of Technology",
+            "schoolStateAbbreviation": "NJ",
+            "schoolState": "New Jersey",
+            "schoolUrl": "http://www.stevens.edu/sit/"
+        }
+    ],
+    "NM": [],
+    "NV": [],
+    "NY": [
+        {
+            "schoolId": "139",
+            "schoolName": "Bard College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.bard.edu/"
+        },
+        {
+            "schoolId": "140",
+            "schoolName": "Canisius College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.canisius.edu/"
+        },
+        {
+            "schoolId": "141",
+            "schoolName": "Daemen College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.daemen.edu"
+        },
+        {
+            "schoolId": "142",
+            "schoolName": "Elmira College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.elmira.edu/"
+        },
+        {
+            "schoolId": "143",
+            "schoolName": "Hartwick College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.hartwick.edu/"
+        },
+        {
+            "schoolId": "144",
+            "schoolName": "Hobart & William Smith Colleges",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.hws.edu/"
+        },
+        {
+            "schoolId": "145",
+            "schoolName": "Ithaca College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.ithaca.edu/"
+        },
+        {
+            "schoolId": "146",
+            "schoolName": "Marist College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.marist.edu/"
+        },
+        {
+            "schoolId": "147",
+            "schoolName": "Medaille College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.medaille.edu/"
+        },
+        {
+            "schoolId": "148",
+            "schoolName": "Nazareth College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.naz.edu/"
+        },
+        {
+            "schoolId": "149",
+            "schoolName": "Niagara University",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.niagara.edu/"
+        },
+        {
+            "schoolId": "150",
+            "schoolName": "Pace University",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.pace.edu/"
+        },
+        {
+            "schoolId": "151",
+            "schoolName": "Rensselaer Polytechnic Institute",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.rpi.edu/"
+        },
+        {
+            "schoolId": "152",
+            "schoolName": "Roberts Wesleyan College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.roberts.edu/"
+        },
+        {
+            "schoolId": "153",
+            "schoolName": "Rochester Institute of Technology",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.rit.edu/"
+        },
+        {
+            "schoolId": "154",
+            "schoolName": "Skidmore College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://cms.skidmore.edu/"
+        },
+        {
+            "schoolId": "155",
+            "schoolName": "Syracuse University",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.syr.edu/"
+        },
+        {
+            "schoolId": "156",
+            "schoolName": "University of Rochester",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.rochester.edu/"
+        },
+        {
+            "schoolId": "157",
+            "schoolName": "Vassar College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.vassar.edu/"
+        },
+        {
+            "schoolId": "158",
+            "schoolName": "Wagner College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.wagner.edu/"
+        },
+        {
+            "schoolId": "159",
+            "schoolName": "Wells College",
+            "schoolStateAbbreviation": "NY",
+            "schoolState": "New York",
+            "schoolUrl": "http://www.wells.edu/"
+        }
+    ],
+    "OH": [
+        {
+            "schoolId": "168",
+            "schoolName": "Ashland University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.ashland.edu/future-undergraduates"
+        },
+        {
+            "schoolId": "169",
+            "schoolName": "Baldwin-Wallace University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.bw.edu/"
+        },
+        {
+            "schoolId": "170",
+            "schoolName": "Capital University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.capital.edu/"
+        },
+        {
+            "schoolId": "171",
+            "schoolName": "Case Western Reserve University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.case.edu/"
+        },
+        {
+            "schoolId": "172",
+            "schoolName": "College of Wooster",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.wooster.edu/"
+        },
+        {
+            "schoolId": "173",
+            "schoolName": "Denison University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.denison.edu/"
+        },
+        {
+            "schoolId": "174",
+            "schoolName": "Hiram College",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.hiram.edu/"
+        },
+        {
+            "schoolId": "175",
+            "schoolName": "John Carroll University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.jcu.edu/"
+        },
+        {
+            "schoolId": "176",
+            "schoolName": "Kenyon College",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.kenyon.edu/"
+        },
+        {
+            "schoolId": "177",
+            "schoolName": "Mount Vernon Nazarene University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.mvnu.edu/"
+        },
+        {
+            "schoolId": "178",
+            "schoolName": "Muskingum University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.muskingum.edu/home/"
+        },
+        {
+            "schoolId": "179",
+            "schoolName": "Oberlin College",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://new.oberlin.edu/"
+        },
+        {
+            "schoolId": "180",
+            "schoolName": "Ohio Wesleyan University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.owu.edu/"
+        },
+        {
+            "schoolId": "181",
+            "schoolName": "Tiffin University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.tiffin.edu/"
+        },
+        {
+            "schoolId": "182",
+            "schoolName": "University of Dayton",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.udayton.edu/"
+        },
+        {
+            "schoolId": "183",
+            "schoolName": "Wittenberg University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.wittenberg.edu/"
+        },
+        {
+            "schoolId": "184",
+            "schoolName": "Xavier University",
+            "schoolStateAbbreviation": "OH",
+            "schoolState": "Ohio",
+            "schoolUrl": "http://www.xavier.edu/"
+        }
+    ],
+    "OK": [
+        {
+            "schoolId": "185",
+            "schoolName": "Oklahoma Christian University",
+            "schoolStateAbbreviation": "OK",
+            "schoolState": "Oklahoma",
+            "schoolUrl": "http://www.oc.edu/"
+        },
+        {
+            "schoolId": "186",
+            "schoolName": "Southern Nazarene University",
+            "schoolStateAbbreviation": "OK",
+            "schoolState": "Oklahoma",
+            "schoolUrl": "http://www.snu.edu/"
+        },
+        {
+            "schoolId": "187",
+            "schoolName": "University of Tulsa",
+            "schoolStateAbbreviation": "OK",
+            "schoolState": "Oklahoma",
+            "schoolUrl": "http://www.utulsa.edu/"
+        }
+    ],
+    "OR": [
+        {
+            "schoolId": "188",
+            "schoolName": "Concordia University",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.cu-portland.edu/"
+        },
+        {
+            "schoolId": "189",
+            "schoolName": "George Fox University",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.georgefox.edu/"
+        },
+        {
+            "schoolId": "190",
+            "schoolName": "Lewis & Clark College",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.lclark.edu/"
+        },
+        {
+            "schoolId": "191",
+            "schoolName": "Linfield College",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.linfield.edu/"
+        },
+        {
+            "schoolId": "192",
+            "schoolName": "Pacific University",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.pacificu.edu/"
+        },
+        {
+            "schoolId": "193",
+            "schoolName": "Reed College",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.reed.edu/"
+        },
+        {
+            "schoolId": "194",
+            "schoolName": "Willamette University",
+            "schoolStateAbbreviation": "OR",
+            "schoolState": "Oregon",
+            "schoolUrl": "http://www.willamette.edu/"
+        }
+    ],
+    "PA": [
+        {
+            "schoolId": "1195",
+            "schoolName": "Albright College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.albright.edu/index.php"
+        },
+        {
+            "schoolId": "195",
+            "schoolName": "Allegheny College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.allegheny.edu/"
+        },
+        {
+            "schoolId": "196",
+            "schoolName": "Alvernia College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.alvernia.edu/"
+        },
+        {
+            "schoolId": "197",
+            "schoolName": "Arcadia University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.arcadia.edu/"
+        },
+        {
+            "schoolId": "198",
+            "schoolName": "Carnegie Mellon University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.cmu.edu/"
+        },
+        {
+            "schoolId": "199",
+            "schoolName": "Chatham University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.chatham.edu/"
+        },
+        {
+            "schoolId": "200",
+            "schoolName": "Dickinson College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.dickinson.edu/"
+        },
+        {
+            "schoolId": "201",
+            "schoolName": "Drexel University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.drexel.edu/"
+        },
+        {
+            "schoolId": "202",
+            "schoolName": "Franklin & Marshall College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.fandm.edu/"
+        },
+        {
+            "schoolId": "203",
+            "schoolName": "Gettysburg College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.gettysburg.edu/"
+        },
+        {
+            "schoolId": "204",
+            "schoolName": "Grove City College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.gcc.edu/"
+        },
+        {
+            "schoolId": "205",
+            "schoolName": "Immaculata University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.immaculata.edu/"
+        },
+        {
+            "schoolId": "206",
+            "schoolName": "Juniata College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.juniata.edu/"
+        },
+        {
+            "schoolId": "207",
+            "schoolName": "Keystone College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.keystone.edu/"
+        },
+        {
+            "schoolId": "208",
+            "schoolName": "La Salle University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.lasalle.edu/"
+        },
+        {
+            "schoolId": "209",
+            "schoolName": "Marywood University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.marywood.edu/"
+        },
+        {
+            "schoolId": "210",
+            "schoolName": "Moravian College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.moravian.edu/"
+        },
+        {
+            "schoolId": "211",
+            "schoolName": "Muhlenberg College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.muhlenberg.edu/"
+        },
+        {
+            "schoolId": "212",
+            "schoolName": "Saint Francis University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.francis.edu/"
+        },
+        {
+            "schoolId": "213",
+            "schoolName": "Susquehanna University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.susqu.edu/"
+        },
+        {
+            "schoolId": "214",
+            "schoolName": "Thiel College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.thiel.edu/"
+        },
+        {
+            "schoolId": "215",
+            "schoolName": "Ursinus College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.ursinus.edu/"
+        },
+        {
+            "schoolId": "216",
+            "schoolName": "Washington & Jefferson College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.washjeff.edu/"
+        },
+        {
+            "schoolId": "217",
+            "schoolName": "Waynesburg University",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.waynesburg.edu/"
+        },
+        {
+            "schoolId": "218",
+            "schoolName": "Westminster College",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.westminster.edu/"
+        },
+        {
+            "schoolId": "219",
+            "schoolName": "York College of Pennsylvania",
+            "schoolStateAbbreviation": "PA",
+            "schoolState": "Pennsylvania",
+            "schoolUrl": "http://www.ycp.edu/"
+        }
+    ],
+    "RI": [
+        {
+            "schoolId": "902222",
+            "schoolName": "Rogers Williams University",
+            "schoolStateAbbreviation": "RI",
+            "schoolState": "Rhode Island",
+            "schoolUrl": "http://www.ttt.edu/"
+        }
+    ],
+    "SC": [
+        {
+            "schoolId": "220",
+            "schoolName": "Charleston Southern University",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.csuniv.edu/"
+        },
+        {
+            "schoolId": "221",
+            "schoolName": "Claflin University",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.claflin.edu/"
+        },
+        {
+            "schoolId": "222",
+            "schoolName": "Columbia College",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.columbiacollegesc.edu/"
+        },
+        {
+            "schoolId": "223",
+            "schoolName": "Converse College",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.converse.edu/"
+        },
+        {
+            "schoolId": "224",
+            "schoolName": "Furman University",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.furman.edu/"
+        },
+        {
+            "schoolId": "225",
+            "schoolName": "Presbyterian College",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.presby.edu/"
+        },
+        {
+            "schoolId": "226",
+            "schoolName": "Wofford College",
+            "schoolStateAbbreviation": "SC",
+            "schoolState": "South Carolina",
+            "schoolUrl": "http://www.wofford.edu/"
+        }
+    ],
+    "SD": [
+        {
+            "schoolId": "227",
+            "schoolName": "Augustana College",
+            "schoolStateAbbreviation": "SD",
+            "schoolState": "South Dakota",
+            "schoolUrl": "http://www.augie.edu/"
+        }
+    ],
+    "TN": [
+        {
+            "schoolId": "228",
+            "schoolName": "Belmont University",
+            "schoolStateAbbreviation": "TN",
+            "schoolState": "Tennessee",
+            "schoolUrl": "http://www.belmont.edu/"
+        },
+        {
+            "schoolId": "229",
+            "schoolName": "Carson-Newman College",
+            "schoolStateAbbreviation": "TN",
+            "schoolState": "Tennessee",
+            "schoolUrl": "http://www.cn.edu/"
+        },
+        {
+            "schoolId": "231",
+            "schoolName": "Rhodes College",
+            "schoolStateAbbreviation": "TN",
+            "schoolState": "Tennessee",
+            "schoolUrl": "http://www.rhodes.edu/"
+        },
+        {
+            "schoolId": "232",
+            "schoolName": "Trevecca Nazarene University",
+            "schoolStateAbbreviation": "TN",
+            "schoolState": "Tennessee",
+            "schoolUrl": "http://www.trevecca.edu/"
+        },
+        {
+            "schoolId": "233",
+            "schoolName": "Sewanee: University of the South",
+            "schoolStateAbbreviation": "TN",
+            "schoolState": "Tennessee",
+            "schoolUrl": "http://www.sewanee.edu/"
+        },
+        {
+            "schoolId": "234",
+            "schoolName": "Vanderbilt University",
+            "schoolStateAbbreviation": "TN",
+            "schoolState": "Tennessee",
+            "schoolUrl": "http://www.vanderbilt.edu/"
+        }
+    ],
+    "TX": [
+        {
+            "schoolId": "235",
+            "schoolName": "Abilene Christian University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.acu.edu/"
+        },
+        {
+            "schoolId": "236",
+            "schoolName": "Austin College",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.austincollege.edu/"
+        },
+        {
+            "schoolId": "237",
+            "schoolName": "Baylor University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.baylor.edu/"
+        },
+        {
+            "schoolId": "238",
+            "schoolName": "Concordia University Texas",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.concordia.edu/"
+        },
+        {
+            "schoolId": "239",
+            "schoolName": "Dallas Baptist University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.dbu.edu/"
+        },
+        {
+            "schoolId": "240",
+            "schoolName": "Hardin-Simmons University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.hsutx.edu/"
+        },
+        {
+            "schoolId": "241",
+            "schoolName": "Lubbock Christian University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.lcu.edu/"
+        },
+        {
+            "schoolId": "242",
+            "schoolName": "Rice University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.rice.edu/"
+        },
+        {
+            "schoolId": "243",
+            "schoolName": "St. Edward's University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.stedwards.edu/"
+        },
+        {
+            "schoolId": "244",
+            "schoolName": "St. Mary's University of San Antonio",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.stmarytx.edu/"
+        },
+        {
+            "schoolId": "245",
+            "schoolName": "Schreiner University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.schreiner.edu/"
+        },
+        {
+            "schoolId": "246",
+            "schoolName": "Southern Methodist University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.smu.edu/"
+        },
+        {
+            "schoolId": "247",
+            "schoolName": "Southwestern University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.southwestern.edu/"
+        },
+        {
+            "schoolId": "248",
+            "schoolName": "Texas Christian University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.tcu.edu/"
+        },
+        {
+            "schoolId": "249",
+            "schoolName": "Trinity University",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.trinity.edu/"
+        },
+        {
+            "schoolId": "250",
+            "schoolName": "University of Dallas",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.udallas.edu/"
+        },
+        {
+            "schoolId": "251",
+            "schoolName": "University of Mary Hardin-Baylor",
+            "schoolStateAbbreviation": "TX",
+            "schoolState": "Texas",
+            "schoolUrl": "http://www.umhb.edu/"
+        }
+    ],
+    "UT": [],
+    "VA": [
+        {
+            "schoolId": "254",
+            "schoolName": "Bridgewater College",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.bridgewater.edu/"
+        },
+        {
+            "schoolId": "255",
+            "schoolName": "Eastern Mennonite University",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.emu.edu/"
+        },
+        {
+            "schoolId": "256",
+            "schoolName": "Hampden-Sydney College",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.hsc.edu/"
+        },
+        {
+            "schoolId": "257",
+            "schoolName": "Hollins University",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.hollins.edu/"
+        },
+        {
+            "schoolId": "258",
+            "schoolName": "Mary Baldwin College",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.mbc.edu/"
+        },
+        {
+            "schoolId": "259",
+            "schoolName": "Randolph College",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.randolphcollege.edu/"
+        },
+        {
+            "schoolId": "260",
+            "schoolName": "Shenandoah University",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.su.edu/"
+        },
+        {
+            "schoolId": "261",
+            "schoolName": "Sweet Briar College",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.sbc.edu/"
+        },
+        {
+            "schoolId": "262",
+            "schoolName": "University of Richmond",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://www.richmond.edu/"
+        },
+        {
+            "schoolId": "263",
+            "schoolName": "Virginia Wesleyan College",
+            "schoolStateAbbreviation": "VA",
+            "schoolState": "Virginia",
+            "schoolUrl": "http://ww2.vwc.edu/"
+        }
+    ],
+    "VT": [
+        {
+            "schoolId": "252",
+            "schoolName": "Middlebury College",
+            "schoolStateAbbreviation": "VT",
+            "schoolState": "Vermont",
+            "schoolUrl": "http://www.middlebury.edu/"
+        },
+        {
+            "schoolId": "253",
+            "schoolName": "Saint Michael's College",
+            "schoolStateAbbreviation": "VT",
+            "schoolState": "Vermont",
+            "schoolUrl": "http://www.smcvt.edu/"
+        }
+    ],
+    "WA": [
+        {
+            "schoolId": "264",
+            "schoolName": "Pacific Lutheran University",
+            "schoolStateAbbreviation": "WA",
+            "schoolState": "Washington",
+            "schoolUrl": "http://www.plu.edu/"
+        },
+        {
+            "schoolId": "265",
+            "schoolName": "Seattle Pacific University",
+            "schoolStateAbbreviation": "WA",
+            "schoolState": "Washington",
+            "schoolUrl": "http://www.spu.edu/"
+        },
+        {
+            "schoolId": "266",
+            "schoolName": "Whitworth University",
+            "schoolStateAbbreviation": "WA",
+            "schoolState": "Washington",
+            "schoolUrl": "http://www.whitworth.edu/"
+        }
+    ],
+    "WI": [
+        {
+            "schoolId": "403",
+            "schoolName": "Beloit College",
+            "schoolStateAbbreviation": "WI",
+            "schoolState": "Wisconsin",
+            "schoolUrl": "http://www.beloit.edu/"
+        },
+        {
+            "schoolId": "269",
+            "schoolName": "Concordia University",
+            "schoolStateAbbreviation": "WI",
+            "schoolState": "Wisconsin",
+            "schoolUrl": "http://www.cuw.edu/"
+        },
+        {
+            "schoolId": "270",
+            "schoolName": "Lakeland College",
+            "schoolStateAbbreviation": "WI",
+            "schoolState": "Wisconsin",
+            "schoolUrl": "http://www.lakeland.edu/"
+        },
+        {
+            "schoolId": "271",
+            "schoolName": "Lawrence University",
+            "schoolStateAbbreviation": "WI",
+            "schoolState": "Wisconsin",
+            "schoolUrl": "http://www.lawrence.edu/"
+        },
+        {
+            "schoolId": "272",
+            "schoolName": "Ripon College",
+            "schoolStateAbbreviation": "WI",
+            "schoolState": "Wisconsin",
+            "schoolUrl": "http://www.ripon.edu/"
+        }
+    ],
+    "WV": [
+        {
+            "schoolId": "267",
+            "schoolName": "West Virginia Wesleyan College",
+            "schoolStateAbbreviation": "WV",
+            "schoolState": "West Virginia",
+            "schoolUrl": "http://www.wvwc.edu/"
+        },
+        {
+            "schoolId": "268",
+            "schoolName": "Wheeling Jesuit University",
+            "schoolStateAbbreviation": "WV",
+            "schoolState": "West Virginia",
+            "schoolUrl": "http://www.wju.edu/"
+        }
+    ],
+    "WY": []
+}

@@ -1,0 +1,52 @@
+
+/* % Generic font mixin
+
+--- USAGE ---
+
+  @include font($font: $font-1, $style: normal, $size: $h1-size, $weight: normal);
+
+--------------
+% */
+
+@mixin font($font, $style: normal, $size: 1rem, $weight: $font-weight-normal) {
+  font-family: $font, Helvetica, Arial, sans-serif;
+  font-style:  $style;
+  font-weight: $weight;
+  font-size: $size;
+}
+
+/* % Media Query mixin 
+
+--- USAGE ---
+
+  @include mg(sm);
+  @include mg(md);
+  @include mg(lg);
+  @include mg(xl);
+  @include mg(jumbo);
+
+--------------
+% */
+
+@mixin mq($query){
+
+    @if $query == sm{
+        @media only screen and (min-width: $sm-start) and (max-width: $sm-end) { @content; }
+    }
+
+    @if $query == md{
+        @media only screen and (min-width: $md-start) and (max-width: $md-end) { @content; }
+    }
+
+    @if $query == lg{
+        @media only screen and (min-width: $lg-start) and (max-width: $lg-end) { @content; }
+    }
+
+    @if $query == xl{
+        @media only screen and (min-width: $xl-start) and (max-width: $xl-end) { @content; }
+    }
+
+    @if $query == jumbo{
+        @media only screen and (min-width: $jumbo-start) { @content; }
+    } 
+}

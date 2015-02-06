@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 143.5 120.5" enable-background="new 0 0 143.5 120.5" xml:space="preserve">
+<g id="state">
+	
+		<path id="OR" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" fill="#D3D3D3" stroke="#FFFFFF" stroke-width="0.75" d="
+		M115.202,118.032l8.85-34.802l1.051-4.229l2.354-5.623l-0.615-1.163l-2.514-0.046l-1.281-1.67l0.457-1.464l0.502-3.247l4.459-5.487
+		l1.828-1.099l1.143-1.143l1.485-3.565l4.047-5.669l3.566-3.862l0.229-3.45l-3.27-2.47l-1.783-4.644l-12.664-3.611l-15.09-3.543
+		l-15.432,0.113l-0.458-1.371l-5.487,2.058l-4.457-0.571l-2.4-1.601l-1.258,0.687l-4.688-0.229l-1.715-1.372l-5.258-2.059
+		l-0.801,0.115l-4.344-1.486l-1.943,1.828l-6.172-0.342L47.6,18.898l0.686-0.801l0.229-7.773l-2.287-3.888l-4.115-0.571
+		l-0.686-2.515l-2.354-0.468l-5.798,2.06l-2.263,6.466l-3.232,10.022l-3.233,6.467l-5.01,14.063l-6.467,13.58L4.986,68.15
+		l-1.94,2.91l-0.809,8.568l0.387,12.08L115.202,118.032z"/>
+</g>
+<g id="colleges">
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="46.416" cy="28.417" r="5.25"/>
+		<text transform="matrix(1 0 0 1 44.5407 30.731)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">1</text>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="36.666" cy="28.583" r="5.25"/>
+		<text transform="matrix(1 0 0 1 34.7907 30.8977)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">5</text>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="41.166" cy="36.602" r="5.25"/>
+		<text transform="matrix(1 0 0 1 39.2907 38.9167)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">2</text>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="41.25" cy="46.602" r="5.25"/>
+		<text transform="matrix(1 0 0 1 39.3742 48.9167)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">7</text>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="32.5" cy="37.602" r="5.25"/>
+		<text transform="matrix(1 0 0 1 30.6242 39.9167)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">4</text>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="54.5" cy="31.352" r="5.25"/>
+		<text transform="matrix(1 0 0 1 52.624 33.6667)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">3</text>
+	</g>
+	<g>
+		<circle fill="#FFFFFF" stroke="#38525F" stroke-miterlimit="10" cx="62.25" cy="34.288" r="5.25"/>
+		<text transform="matrix(1 0 0 1 60.374 36.6024)" fill="#38525F" font-family="'MyriadPro-Semibold'" font-size="7">6</text>
+	</g>
+</g>
+</svg>
